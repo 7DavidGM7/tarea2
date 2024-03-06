@@ -1,0 +1,166 @@
+
+#osopho{
+	width:600px;
+	height:600px;
+	background-color:#C70039 ;
+	margin:auto;
+	padding: 50px;
+}
+#orejas1{
+	width: 50px;
+	height:50px;
+	border-radius:50%;
+	background-color:black;
+	position: absolute;
+	left:590px;
+	top: 100px;
+
+
+}
+#orejas2{
+	width: 50px;
+	height:50px;
+	border-radius:50%;
+	background-color:black;
+	position: absolute;
+	right:590px;
+	top:100px;
+}
+#cabeza{
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color:white;
+	margin: auto;
+}
+#ojoder{
+	width: 50px;
+	height: 70px;
+	border-radius:50%;
+	transform: rotate(-20deg);
+	background-color: black;
+	position:absolute;
+	right:600px;
+	top:150px;
+}
+#ojo1{
+	width: 35px;
+	height: 35px;
+	border-radius:50%;
+	background-color:white;
+	position:relative;
+	right:-8px;
+	top:20px;
+}
+#iri1{
+	width: 15px;
+	height: 15px;
+	border-radius:50%;
+	background-color:#2A6C1E ;
+	position:relative;
+	right:-7px;
+	top:15px;
+}
+
+#ojoizq{
+	width: 50px;
+	height: 70px;
+	border-radius:50%;
+	transform: rotate(20deg);
+	background-color: black;
+	position:absolute;
+	left:600px;
+	top:150px;
+}
+#ojo2{
+	width: 35px;
+	height: 35px;
+	border-radius:50%;
+	background-color:white;
+	position:relative;
+	left:8px;
+	top:20px;
+}
+#iri2{
+	width: 15px;
+	height: 15px;
+	border-radius:50%;
+	background-color:#2A6C1E ;
+	position:relative;
+	left:15px;
+	top:15px;
+}
+#nariz{
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+	background-color: black;
+	position:absolute;
+	left:655px;
+	top:190px;
+}
+#boca{
+	width: 90px;
+	height: 40px;
+	border-radius:50%;
+	background-color: #900C3F ;
+	position:absolute;
+	left:635px;
+	top:250px;
+}
+#mano1{
+	width:170px;
+	height: 90px;
+	border-radius: 50%;
+	transform: rotate(-45deg);
+	background-color:black;
+	position:absolute;
+	left:450px;
+	top:370px;
+}
+#mano2{
+	width:170px;
+	height: 90px;
+	border-radius: 50%;
+	transform: rotate(45deg);
+	background-color:black;
+	position:absolute;
+	right:450px;
+	top:370px;
+}
+#cuerpo{
+	width:300px;
+	height: 300px;
+	border-radius: 50%;
+	background-color:black;
+	margin: auto;
+}
+#estomago{
+	width:190px;
+	height: 190px;
+	border-radius: 50%;
+	background-color:white;
+	position: relative;
+	top: 60px;
+	left:60px;
+}
+#pie1{
+	width:130px;
+	height: 90px;
+	border-radius: 50%;
+	transform: rotate(150deg);
+	background-color:black;
+	position:absolute;
+	left:470px;
+	top:550px;
+}
+#pie2{
+	width:130px;
+	height: 90px;
+	border-radius: 50%;
+	transform: rotate(-150deg);
+	background-color:black;
+	position:absolute;
+	right:470px;
+	top:550px;
+}
